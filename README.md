@@ -12,6 +12,8 @@ También crear dentro de ellos los mismos folders del folder de data (cardboard,
 
 python prepare.py
 
+Esto va a separar nuestro data a testing y training sets y a prepararla para que la creación de modelos.
+
 
 ## 4. Crear folder models
 
