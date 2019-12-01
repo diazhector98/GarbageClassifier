@@ -1,0 +1,1 @@
+{"activation_function": "relu", "batch_size": 64, "epoch": 160, "learning_rate": 0.001, "hidden_layer_nodes": 32}

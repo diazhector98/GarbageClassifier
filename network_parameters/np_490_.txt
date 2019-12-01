@@ -1,0 +1,1 @@
+{"activation_function": "tanh", "batch_size": 64, "epoch": 40, "learning_rate": 0.0015, "hidden_layer_nodes": 16}
